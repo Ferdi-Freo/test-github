@@ -1,6 +1,4 @@
 Rencana belajar hari ini : 
-  - HTML
-  - Css
   - JavaScript
   - PHP
   - Boostraps 
