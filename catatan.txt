@@ -3,3 +3,5 @@ Rencana belajar hari ini :
   - Css
   - JavaScript
   - PHP
+  - Boostraps 
+  - NodeJS
